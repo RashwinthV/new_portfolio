@@ -1,0 +1,22 @@
+#navbarNav{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#title{
+    flex-direction: column;
+}
+.mt-n1 {
+    margin-top: 8rem !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    
+  }
+  .m{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .navbar-nav{
+      align-items: center;
+  }
